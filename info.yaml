@@ -18,14 +18,14 @@ project:
   # Don't forget to also update `PROJECT_SOURCES` in test/Makefile.
   source_files:
     - "tt_um_alu_KDCastilloR.v"
-     -"banderas_alu.v"
-     -"or_bits.v"
-     -"and_bits.v"
-     -"desplazamiento_derecha.v"
-     -"desplazamiento_izquierda.v"
-      -"control_alu.v"
-      -"sumador_completo_8bits.v"
-     -"sumador_completo.v"
+    - "banderas_alu.v"
+    - "or_bits.v"
+    - "and_bits.v"
+    - "desplazamiento_derecha.v"
+    - "desplazamiento_izquierda.v"
+    - "control_alu.v"
+    - "sumador_completo_8bits.v"
+    - "sumador_completo.v"
 
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
