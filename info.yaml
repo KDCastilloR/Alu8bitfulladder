@@ -26,10 +26,7 @@ project:
       -"control_alu.v"
       -"sumador_completo_8bits.v"
      -"sumador_completo.v"
-     
-     
-    
-    
+
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
@@ -64,9 +61,6 @@ uo[4]: "Resultado4"
 uo[5]: "Resultado5"
 uo[6]: "Resultado6"
 uo[7]: "Resultado7"
-
-
- 
 
 # Do not change!
 yaml_version: 6
