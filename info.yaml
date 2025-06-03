@@ -55,7 +55,7 @@ uio[7]: "B7"
   # Outputs
 uo[0]: "Resultado0"
 uo[1]: "Resultado1"
-uo[2]: "Resultado2"
+uo[2]: "Resultado2" 
 uo[3]: "Resultado3"
 uo[4]: "Resultado4"
 uo[5]: "Resultado5"
